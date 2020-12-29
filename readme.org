@@ -22,7 +22,7 @@
 
 3. Run from ~helm-find-files~
    #+DOWNLOADED: screenshot @ 2020-12-26 14:22:01
-   [[file:image/About/2020-12-26_14-22-01_screenshot.png]]
+   [[file:image/About/2020-12-26_15-05-23_screenshot.png]]
 
 ** Run the command "rg-grep"
 1. Input args for rg
